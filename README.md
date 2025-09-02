@@ -36,7 +36,7 @@ Just a **name**, and you’re instantly ready to chat with anyone in the world. 
 
 ### 🌐 Users Scanning
 <p align="center">
-<img width="400" height="800" alt="USER-A" src="https://github.com/user-attachments/assets/af377b53-22a4-417a-b9c8-1aac2b4ab2f6" />
+<img width="1080" height="2032" alt="image" src="https://github.com/user-attachments/assets/9dee090d-8ccf-4d80-8283-ea1c31d52129" />
 <img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/bd8366a9-5d83-495d-81f5-efb06cd909bf" />
 </p>
 
