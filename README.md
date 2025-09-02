@@ -29,7 +29,8 @@ Just a **name**, and you’re instantly ready to chat with anyone in the world. 
 ## 📸 Screenshots
 
 ### 🔑 Login
-![Login](https://github.com/yourusername/MessX/blob/main/assets/screenshots/login.png)
+<img width="689" height="1280" alt="image" src="https://github.com/user-attachments/assets/3d69457c-63d8-4145-8bee-303c5ab4f775" />
+
 
 ### 🏠 Home
 ![Home](https://github.com/yourusername/MessX/blob/main/assets/screenshots/home.png)
