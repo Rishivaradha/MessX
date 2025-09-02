@@ -34,16 +34,18 @@ Just a **name**, and you’re instantly ready to chat with anyone in the world. 
 ### 🏠 Home
 <img width="400" height="800" alt="Home" src="https://github.com/user-attachments/assets/3758b180-4377-4d26-ae01-cb8dbb84c39b" />
 
+### 🌐 Users Scanning
+<p align="center">
+<img width="589" height="1280" alt="USER-A" src="https://github.com/user-attachments/assets/af377b53-22a4-417a-b9c8-1aac2b4ab2f6" />
+
+
+
+</p>
+
 ### 💬 Chat (Sender vs Receiver)
 <p align="center">
   <img width="400" height="800" alt="Sender" src="https://github.com/user-attachments/assets/sender-image-id" />
   <img width="400" height="800" alt="Receiver" src="https://github.com/user-attachments/assets/receiver-image-id" />
-</p>
-
-### 🌐 Users Scanning (Parallel View)
-<p align="center">
-  <img width="400" height="800" alt="Scanning 1" src="https://github.com/user-attachments/assets/scan1-image-id" />
-  <img width="400" height="800" alt="Scanning 2" src="https://github.com/user-attachments/assets/scan2-image-id" />
 </p>
 
 ---
