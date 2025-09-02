@@ -60,5 +60,5 @@ Just a **name**, and you’re instantly ready to chat with anyone in the world. 
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/MessX.git
+https://github.com/Rishivaradha/MessX.git
 cd MessX
