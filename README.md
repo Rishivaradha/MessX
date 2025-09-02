@@ -33,7 +33,8 @@ Just a **name**, and you’re instantly ready to chat with anyone in the world. 
 
 
 ### 🏠 Home
-![Home](https://github.com/yourusername/MessX/blob/main/assets/screenshots/home.png)
+<img width="200" height="980" alt="image" src="https://github.com/user-attachments/assets/3758b180-4377-4d26-ae01-cb8dbb84c39b" />
+
 
 ### 💬 Chat
 ![Chat](https://github.com/yourusername/MessX/blob/main/assets/screenshots/chat.png)
