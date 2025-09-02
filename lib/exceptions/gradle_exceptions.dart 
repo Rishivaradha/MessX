@@ -1,0 +1,33 @@
+/// Custom exception classes for build and configuration errors
+class GradleException implements Exception {
+  final String message;
+  final String? details;
+
+  const GradleException(this.message, {this.details});
+
+  @override
+  String toString() {
+    if (details != null) {
+      return 'GradleException: $message\nDetails: $details';
+    }
+    return 'GradleException: $message';
+  }
+}
+
+/// Exception for build configuration errors
+class BuildConfigException extends GradleException {
+  const BuildConfigException(String message, {String? details})
+      : super(message, details: details);
+}
+
+/// Exception for dependency errors
+class DependencyException extends GradleException {
+  const DependencyException(String message, {String? details})
+      : super(message, details: details);
+}
+
+/// Exception for plugin configuration errors
+class PluginConfigException extends GradleException {
+  const PluginConfigException(String message, {String? details})
+      : super(message, details: details);
+}

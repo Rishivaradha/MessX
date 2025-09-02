@@ -1,0 +1,30 @@
+name: messx
+description: MessX - A modern chat application
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # WebSocket dependencies for Internet chat
+  web_socket_channel: ^3.0.1
+  http: ^1.2.2
+
+  # Keep existing packages
+  uuid: ^4.5.1
+  shared_preferences: ^2.2.2
+  cupertino_icons: ^1.0.2
+  get: ^4.6.6
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
