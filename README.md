@@ -29,7 +29,7 @@ Just a **name**, and you’re instantly ready to chat with anyone in the world. 
 ## 📸 Screenshots
 
 ### 🔑 Login
-<img width="600" height="1100" alt="image" src="https://github.com/user-attachments/assets/3d69457c-63d8-4145-8bee-303c5ab4f775" />
+<img width="400" height="1100" alt="image" src="https://github.com/user-attachments/assets/3d69457c-63d8-4145-8bee-303c5ab4f775" />
 
 
 ### 🏠 Home
