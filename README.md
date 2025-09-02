@@ -42,8 +42,8 @@ Just a **name**, and you’re instantly ready to chat with anyone in the world. 
 
 ### 💬 Chat (Sender vs Receiver)
 <p align="center">
-  <img width="400" height="800" alt="Sender" src="https://github.com/user-attachments/assets/sender-image-id" />
-  <img width="400" height="800" alt="Receiver" src="https://github.com/user-attachments/assets/receiver-image-id" />
+ <img width="1080" height="2032" alt="image" src="https://github.com/user-attachments/assets/307e6c34-30a0-4e92-8e0e-aa62ad48bbd3" />
+ <img width="400" height="800" alt="Receiver" src="https://github.com/user-attachments/assets/receiver-image-id" />
 </p>
 
 ---
