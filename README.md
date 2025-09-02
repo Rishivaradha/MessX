@@ -33,7 +33,7 @@ Just a **name**, and you’re instantly ready to chat with anyone in the world. 
 
 
 ### 🏠 Home
-<img width="200" height="980" alt="image" src="https://github.com/user-attachments/assets/3758b180-4377-4d26-ae01-cb8dbb84c39b" />
+<img width="400" height="1100" alt="image" src="https://github.com/user-attachments/assets/3758b180-4377-4d26-ae01-cb8dbb84c39b" />
 
 
 ### 💬 Chat
