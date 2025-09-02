@@ -29,17 +29,22 @@ Just a **name**, and you’re instantly ready to chat with anyone in the world. 
 ## 📸 Screenshots
 
 ### 🔑 Login
-<img width="400" height="1100" alt="image" src="https://github.com/user-attachments/assets/3d69457c-63d8-4145-8bee-303c5ab4f775" />
-
+<img width="400" height="800" alt="Login" src="https://github.com/user-attachments/assets/3d69457c-63d8-4145-8bee-303c5ab4f775" />
 
 ### 🏠 Home
-<img width="400" height="1100" alt="image" src="https://github.com/user-attachments/assets/3758b180-4377-4d26-ae01-cb8dbb84c39b" />
+<img width="400" height="800" alt="Home" src="https://github.com/user-attachments/assets/3758b180-4377-4d26-ae01-cb8dbb84c39b" />
 
+### 💬 Chat (Sender vs Receiver)
+<p align="center">
+  <img width="400" height="800" alt="Sender" src="https://github.com/user-attachments/assets/sender-image-id" />
+  <img width="400" height="800" alt="Receiver" src="https://github.com/user-attachments/assets/receiver-image-id" />
+</p>
 
-### 💬 Chat
-![Chat](https://github.com/yourusername/MessX/blob/main/assets/screenshots/chat.png)
-
-> *(Replace the above links with your actual image URLs from the repo. If you upload images directly in the root or `screenshots/` folder, just adjust the path.)*
+### 🌐 Users Scanning (Parallel View)
+<p align="center">
+  <img width="400" height="800" alt="Scanning 1" src="https://github.com/user-attachments/assets/scan1-image-id" />
+  <img width="400" height="800" alt="Scanning 2" src="https://github.com/user-attachments/assets/scan2-image-id" />
+</p>
 
 ---
 
