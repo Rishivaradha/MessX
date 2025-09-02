@@ -28,11 +28,11 @@ Just a **name**, and you’re instantly ready to chat with anyone in the world. 
 
 ## 📸 Screenshots
 
-### 🔑 Login
-<img width="400" height="800" alt="Login" src="https://github.com/user-attachments/assets/3d69457c-63d8-4145-8bee-303c5ab4f775" />
-
-### 🏠 Home
-<img width="400" height="800" alt="Home" src="https://github.com/user-attachments/assets/3758b180-4377-4d26-ae01-cb8dbb84c39b" />
+### 🔑 Login & 🏠 Home
+<p align="center">
+<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/082496d1-7d26-4c03-bfe5-f344b8be16ed" />
+<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/5e9547b4-c80a-4713-8917-26a882ee2a6a" />
+</p>
 
 ### 🌐 Users Scanning
 <p align="center">
