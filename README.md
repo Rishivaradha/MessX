@@ -31,7 +31,7 @@ Just a **name**, and you’re instantly ready to chat with anyone in the world. 
 ### 🔑 Login & 🏠 Home
 <p align="center">
 <img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/082496d1-7d26-4c03-bfe5-f344b8be16ed" />
-<img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/3255f3bb-1ff4-4b02-b0b7-0b910090e6e4" />
+<img width="399" height="800" alt="image" src="https://github.com/user-attachments/assets/3255f3bb-1ff4-4b02-b0b7-0b910090e6e4" />
 </p>
 
 ### 🌐 Users Scanning
